@@ -1,7 +1,7 @@
 .orbit {
   --uib-size: 25px;
   --uib-speed: 1.5s;
-  --uib-color: black;
+  --uib-color: white;
 
   position: relative;
   display: flex;
@@ -13,7 +13,7 @@
 
 .orbit::before,
 .orbit::after {
-  content: "";
+  content: '';
   position: absolute;
   height: 60%;
   width: 60%;
