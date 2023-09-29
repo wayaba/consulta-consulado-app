@@ -1,6 +1,6 @@
 # Consulta Consulado App 📅
 
-desarrollado con Vite + ReactJs (Typescript) + Tailwind
+- desarrollado con Vite + ReactJs (Typescript) + Tailwind
 
 Este sitio consulta una api que se almienta de la página del Consulado de España y muestra si hay turnos disponibles para la renovacion del pasaporte
 
